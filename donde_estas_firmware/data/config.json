@@ -1,0 +1,8 @@
+{
+    "smartrural_device_id": "aquatic_1kdy7ks",
+    "thingsboard_http_access_token": "KaJXFusgo7wB3URaAmbO",
+    "aquatic_hardware_version":"v0.7",
+    "aquatic_firmware_version":"v0.7",
+    "thingsboard_url": "thingsboard.cloud",
+    "interval_reading_seconds": 60
+}

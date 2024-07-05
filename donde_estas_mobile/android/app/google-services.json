@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924036600369",
+    "project_id": "aquacomp-ufrpe-circular-loc",
+    "storage_bucket": "aquacomp-ufrpe-circular-loc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924036600369:android:77f3cbaa33d3c649b1bb10",
+        "android_client_info": {
+          "package_name": "com.aquacomp.ufrpe.donde.estas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGb0zthRS67B-lFDWLT71cUhUhETPF_Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
